@@ -1,0 +1,9 @@
+[submodule "ext/motorunit_DMP"]
+	path = ext/motorunit_DMP
+	url = https://github.com/WeberJa01/motorunit_DMP.git
+[submodule "ext/config"]
+	path = ext/config
+	url = https://github.com/plc-drive-functions-python-tools/config.git
+[submodule "ext/datasymbol"]
+	path = ext/datasymbol
+	url = https://github.com/plc-drive-functions-python-tools/datasymbol.git
